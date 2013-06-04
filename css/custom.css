@@ -1,0 +1,11 @@
+/* custom styles */
+
+.onFullScreen {
+	background-color: #000;
+	color: #bfdfff !important;
+	padding: 25px !important;
+}
+
+.topMargin {
+	margin-top: 60px !important;
+}
